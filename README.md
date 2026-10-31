@@ -1,5 +1,5 @@
 # portifólio-2
-## projeto vanila
+## projeto em andamento
 - HTML
 - CSS
 - JacaScript
